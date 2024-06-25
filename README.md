@@ -1,12 +1,13 @@
- Football Club System Mobile Application
+# Football Club System Mobile Application
 
- Project Overview
+## Project Overview
 The Football Club System mobile application is designed to enhance fan engagement by automating ticket and merchandise sales, providing easy access to team information, and improving the overall fan experience. The app targets football fans, offering a seamless and interactive platform for managing various fan-related activities.
 
- Problem Domain and Target Audience
+## Problem Domain and Target Audience
 Football fans often face challenges such as long queues for tickets, lack of information about team events, and difficulty in purchasing merchandise. This application addresses these issues by providing a user-friendly platform for ticket and merchandise sales, team updates, and fan interactions.
 
- User Requirements
+## User Requirements
+
 1. **User-Friendly Interface**
    - Intuitive and responsive interface
    - Easy navigation on smartphones and tablets
